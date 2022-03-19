@@ -8,6 +8,8 @@ public class UserBookApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserBookApplication.class, args);
+		
+		System.out.println("Mrignak");
 	}
 
 }
